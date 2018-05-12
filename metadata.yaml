@@ -1,0 +1,35 @@
+_repo: Historic-Tales--The-Romance-of-Reality.-Vol.-14--of-15--King-Arthur--2-_32292
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Malory, Thomas, Sir
+    deathdate: 1471
+    gutenberg_agent_id: '573'
+    url: http://www.gutenberg.org/2009/agents/573
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Malory
+  - agent_name: Morris, Charles
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '656'
+    url: http://www.gutenberg.org/2009/agents/656
+description: ''
+gutenberg_bookshelf: Arthurian Legends
+gutenberg_issued: '2010-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arthurian romances'
+- !lcsh 'Malory, Thomas, Sir, active 15th century. Morte d''Arthur -- Adaptations'
+- !lcc 'PS'
+tableOfContents: Tristram and Isolde at Joyous Gard -- The quest of the Holy Grail
+  -- The love of Lancelot and Guenever -- The hand of destiny.
+title: 'Historic Tales: The Romance of Reality. Vol. 14 (of 15), King Arthur (2)'
+url: http://www.gutenberg.org/ebooks/32292
